@@ -1,6 +1,5 @@
 sword and spear
 wall of shields
-line 3
 line 4
 line5
 line6
